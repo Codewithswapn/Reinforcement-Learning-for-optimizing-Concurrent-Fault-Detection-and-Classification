@@ -21,3 +21,5 @@ Learning Rate: 0.001–0.0001
 4.Output:
 Generate bar graphs for each identified fault.
 The output will provide a clear visualization of the identified faults based on the implemented models.
+
+Refrence research paper used for project : https://www.mdpi.com/1424-8220/22/11/4066
